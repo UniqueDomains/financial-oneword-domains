@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .financial one-word domains from U
 
 **Public extract:** 9,196 rows · **Live catalog:** 9,196 domains
 
-**Last updated:** 2026-04-11  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/financial`  
 **Best for:** founders, investors, studios
 
@@ -64,21 +64,21 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| event.financial   | available | $66.98    | —             | 96             | 44     | 5      | namecheap        |
+| creator.financial | available | $29.99    | $75.99        | 70             | 45     | 7      | name.com         |
 | flow.financial    | resell    | —         | —             | 96             | 67     | 4      | Spaceship, Inc.  |
 | ace.financial     | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com         |
-| nice.financial    | available | $29.99    | $75.99        | 86             | 44     | 4      | name.com         |
+| event.financial   | available | $66.98    | —             | 96             | 44     | 5      | namecheap        |
 | now.financial     | resell    | —         | —             | 78             | 66     | 3      | Sav.com, LLC     |
 | free.financial    | premium   | $123.75   | $123.75       | 88             | 54     | 4      | name.com         |
-| creator.financial | available | $29.99    | $75.99        | 70             | 44     | 7      | name.com         |
+| nice.financial    | available | $29.99    | $75.99        | 86             | 44     | 4      | name.com         |
 | home.financial    | resell    | —         | —             | 100            | 62     | 4      | Dynadot Inc      |
 | travel.financial  | premium   | $520      | $520          | 115            | 48     | 6      | namecheap        |
-| order.financial   | available | $29.99    | $75.99        | 78             | 41     | 5      | name.com         |
+| sales.financial   | available | $66.98    | —             | 66             | 42     | 5      | namecheap        |
 | space.financial   | resell    | —         | —             | 80             | 61     | 5      | Sav.com, LLC - 2 |
 | all.financial     | premium   | $123.75   | $123.75       | 88             | 48     | 3      | name.com         |
-| sales.financial   | available | $66.98    | —             | 66             | 41     | 5      | namecheap        |
+| order.financial   | available | $29.99    | $75.99        | 78             | 41     | 5      | name.com         |
 | code.financial    | resell    | —         | —             | 72             | 61     | 4      | Dynadot Inc      |
-| only.financial    | premium   | $250      | $250          | 110            | 47     | 4      | name.com         |
+| only.financial    | premium   | $250      | $250          | 110            | 46     | 4      | name.com         |
 | content.financial | available | $29.99    | $75.99        | 138            | 40     | 7      | name.com         |
 | dot.financial     | resell    | —         | —             | 74             | 58     | 3      | Spaceship, Inc.  |
 | law.financial     | premium   | $128.70   | $128.70       | 82             | 46     | 3      | namecheap        |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FINANCIAL One-Word Domains*. Version 2026-04-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FINANCIAL One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
