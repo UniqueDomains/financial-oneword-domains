@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C199%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C200%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C196%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .financial one-word domains from U
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,199 rows · **Live catalog:** 9,196 domains
+**Public extract:** 9,200 rows · **Live catalog:** 9,196 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/financial`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .FINANCIAL one-word do
 
 ### Files
 
-- `financial.csv` — public CSV extract (9,199 rows)
-- `financial.json` — public JSON extract (9,199 rows)
+- `financial.csv` — public CSV extract (9,200 rows)
+- `financial.json` — public JSON extract (9,200 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -76,13 +76,13 @@ print(df.head())
 | sales.financial   | available | $66.98    | —             | 66             | 42     | 5      | namecheap        |
 | space.financial   | resell    | —         | —             | 80             | 61     | 5      | Sav.com, LLC - 2 |
 | all.financial     | premium   | $123.75   | $123.75       | 88             | 48     | 3      | name.com         |
-| order.financial   | available | $29.99    | $75.99        | 78             | 41     | 5      | name.com         |
+| order.financial   | available | $29.99    | $75.99        | 78             | 40     | 5      | name.com         |
 | code.financial    | resell    | —         | —             | 72             | 61     | 4      | Dynadot Inc      |
 | only.financial    | premium   | $250      | $250          | 110            | 46     | 4      | name.com         |
-| content.financial | available | $29.99    | $75.99        | 138            | 40     | 7      | name.com         |
+| dark.financial    | available | $29.99    | $75.99        | 52             | 40     | 4      | name.com         |
 | dot.financial     | resell    | —         | —             | 74             | 58     | 3      | Spaceship, Inc.  |
 | law.financial     | premium   | $128.70   | $128.70       | 82             | 46     | 3      | namecheap        |
-| dark.financial    | available | $29.99    | $75.99        | 52             | 40     | 4      | name.com         |
+| content.financial | available | $29.99    | $75.99        | 138            | 39     | 7      | name.com         |
 | data.financial    | resell    | —         | —             | 70             | 56     | 4      | Porkbun LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,199-row public sample | 9,196 live domains                               |
+| 9,200-row public sample | 9,196 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
