@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .financial one-word domains
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,168 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,168 domains · **Median ask:** $36.61 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,168 domains · **Median ask:** $37.17 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/financial`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/financial`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FINANCIAL one-word do
 
 ### Files
 
-- `financial.csv` — public CSV extract (1,000 rows)
-- `financial.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `financial.csv`, public CSV extract (1,000 rows)
+- `financial.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| Acup.financial     | available | $66.98    | —             | 80             | 5      | 5      | namecheap         |
-| Trex.financial     | available | $66.98    | —             | 80             | 24     | 5      | namecheap         |
-| girls.financial    | available | $29.99    | —             | 83             | 23     | 5      | name.com          |
-| jewels.financial   | available | $29.99    | —             | 80             | 15     | 6      | name.com          |
-| ladies.financial   | available | $29.99    | —             | 80             | 17     | 6      | name.com          |
-| barup.financial    | available | $29.99    | —             | 82             | 2      | 6      | name.com          |
-| forces.financial   | available | $29.99    | —             | 82             | 12     | 6      | name.com          |
-| getup.financial    | available | $29.99    | —             | 82             | 15     | 6      | name.com          |
-| dogsit.financial   | available | $29.99    | —             | 96             | 2      | 6      | name.com          |
-| gearup.financial   | available | $29.99    | —             | 80             | 16     | 7      | name.com          |
-| toneup.financial   | available | $29.99    | —             | 80             | 5      | 7      | name.com          |
-| messages.financial | available | $29.99    | —             | 80             | 16     | 8      | name.com          |
-| whynot.financial   | available | $29.99    | —             | 74             | 44     | 7      | name.com          |
-| plus.financial     | resell    | —         | —             | 82             | 39     | 4      | Sav.com, LLC - 13 |
-| Tools.financial    | premium   | $138.60   | $138.60       | 56             | 40     | 5      | namecheap         |
-| lets.financial     | available | $29.99    | —             | 77             | 39     | 4      | name.com          |
-| payments.financial | resell    | —         | —             | 58             | 33     | 8      | Dynadot Inc       |
-| events.financial   | premium   | $250      | —             | 68             | 37     | 6      | name.com          |
-| teams.financial    | available | $29.99    | —             | 62             | 32     | 5      | name.com          |
-| tickets.financial  | premium   | $118.80   | $118.80       | 64             | 34     | 7      | namesilo          |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| out.financial       | premium   | $242      | $242          | high           | low    | 3      | namesilo                   |
+| okay.financial      | available | $29.99    | $75.99        | high           | low    | 4      | name.com                   |
+| christmas.financial | premium   | $118.80   | $118.80       | high           | low    | 9      | namesilo                   |
+| ale.financial       | available | $29.99    | —             | medium         | low    | 3      | name.com                   |
+| abc.financial       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.            |
+| act.financial       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| lap.financial       | available | $29.99    | —             | high           | low    | 3      | name.com                   |
+| ape.financial       | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                |
+| DIY.financial       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| led.financial       | available | $29.99    | —             | high           | low    | 3      | name.com                   |
+| dot.financial       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.            |
+| how.financial       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| lip.financial       | available | $29.99    | —             | high           | low    | 3      | name.com                   |
+| home.financial      | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                |
+| ivy.financial       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
+| sag.financial       | available | $29.99    | —             | medium         | low    | 3      | name.com                   |
+| rock.financial      | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.            |
+| oil.financial       | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                   |
+| shh.financial       | available | $29.99    | —             | medium         | low    | 3      | name.com                   |
+| work.financial      | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up of one-word domains on the .financial extension. The set is broad, with 12,161 names, and examples range from generic words such as girls.financial and ladies.financial to sharper terms like WiFi.financial and Trex.financial. That variety makes fit more important than novelty. When comparing these domains, start with whether the word sounds credible next to .financial and whether it creates immediate meaning for a buyer or end user. The median ask is 36.61, so pricing may look accessible, but the stronger names are still the ones with clean spelling, clear recall, and low ambiguity.
+Every domain here pairs a single word with the .financial extension, from plain nouns like homes.financial and presents.financial to compound phrases like whitewater.financial and coffeewoman.financial. With 12,168 domains and a median ask near $37, the set spans a wide range of finance-adjacent vocabulary rather than one narrow style. Pricing shifts with word length, familiarity, and how clearly the word signals a money or finance use case.
 
-- Check whether the word gains credibility with .financial
-- Prefer clean spelling and low ambiguity on first read
-- Use median ask 36.61 as a pricing reference point
-- Avoid words that feel mismatched with finance trust
+- 12,168 one-word .financial domains in this set
+- Median ask near $37 across the selection
+- Mix of short nouns and compound word names
+- Updated daily to reflect current pricing
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FINANCIAL One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FINANCIAL One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
