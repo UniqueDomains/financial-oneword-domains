@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .financial one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,040 domains · **Median ask:** $29.31 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/financial`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| out.financial       | premium   | $242      | $242          | high           | low    | 3      | namesilo        |
-| okay.financial      | available | $29.99    | $75.99        | high           | low    | 4      | name.com        |
-| christmas.financial | premium   | $118.80   | $118.80       | high           | low    | 9      | namesilo        |
-| bang.financial      | available | $29.99    | —             | high           | low    | 4      | name.com        |
-| special.financial   | available | $29.99    | —             | high           | low    | 7      | name.com        |
-| ale.financial       | available | $29.99    | —             | medium         | low    | 3      | name.com        |
-| abc.financial       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
-| act.financial       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
-| azo.financial       | available | $17.48    | $66.98        | low            | low    | 3      | namecheap       |
-| ape.financial       | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc     |
-| DIY.financial       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
-| clx.financial       | available | $17.48    | $66.98        | low            | low    | 3      | namecheap       |
-| dot.financial       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
-| how.financial       | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
-| cxx.financial       | available | $17.48    | $66.98        | low            | low    | 3      | namecheap       |
-| home.financial      | resell    | —         | —             | high           | medium | 4      | Dynadot Inc     |
-| ivy.financial       | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
-| lap.financial       | available | $29.99    | —             | high           | low    | 3      | name.com        |
-| rock.financial      | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc. |
-| oil.financial       | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com        |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                  |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------- |
+| ale.financial   | available | $29.99    | —             | medium         | low    | 3      | name.com                   |
+| abc.financial   | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.            |
+| act.financial   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| azo.financial   | available | $17.48    | $66.98        | low            | low    | 3      | namecheap                  |
+| ape.financial   | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc                |
+| DIY.financial   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| clx.financial   | available | $17.48    | $66.98        | low            | low    | 3      | namecheap                  |
+| dot.financial   | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.            |
+| how.financial   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                   |
+| cxx.financial   | available | $17.48    | $66.98        | low            | low    | 3      | namecheap                  |
+| home.financial  | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                |
+| ivy.financial   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
+| lap.financial   | available | $29.99    | —             | high           | low    | 3      | name.com                   |
+| rock.financial  | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.            |
+| oil.financial   | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                   |
+| led.financial   | available | $29.99    | —             | high           | low    | 3      | name.com                   |
+| work.financial  | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC |
+| out.financial   | premium   | $242      | $242          | high           | low    | 3      | namesilo                   |
+| lip.financial   | available | $29.99    | —             | high           | low    | 3      | name.com                   |
+| dough.financial | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FINANCIAL One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FINANCIAL One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
