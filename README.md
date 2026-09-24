@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .financial one-word domains
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,032 domains · **Median ask:** $24.65 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/financial`
 **Best for:** founders, investors, studios
 
@@ -78,12 +78,12 @@ print(df.head())
 | ivy.financial   | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo                   |
 | lap.financial   | available | $29.99    | —             | high           | low    | 3      | name.com                   |
 | work.financial  | resell    | —         | —             | high           | medium | 4      | Squarespace Domains II LLC |
-| oil.financial   | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com                   |
+| oil.financial   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                   |
 | led.financial   | available | $29.99    | —             | high           | low    | 3      | name.com                   |
 | dough.financial | resell    | —         | —             | medium         | low    | 5      | Spaceship, Inc.            |
 | out.financial   | premium   | $242      | $242          | medium         | low    | 3      | namesilo                   |
 | lip.financial   | available | $29.99    | —             | high           | low    | 3      | name.com                   |
-| forge.financial | resell    | —         | —             | medium         | medium | 5      | Dynadot Inc                |
+| forge.financial | resell    | —         | —             | low            | low    | 5      | Dynadot Inc                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FINANCIAL One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FINANCIAL One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
