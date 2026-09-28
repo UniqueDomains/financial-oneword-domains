@@ -1,10 +1,10 @@
-# Available .FINANCIAL One-Word Domains (22,622)
+# Available .FINANCIAL One-Word Domains (23,081)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C622%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C081%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .financial one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,622 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **23,081 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,622 domains · **Median ask:** $25.66 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 23,081 domains · **Median ask:** $25.60 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/financial`
 **Best for:** founders, investors, studios
 
@@ -69,20 +69,20 @@ print(df.head())
 | are.financial  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
 | bun.financial  | available | $23.99    | $58.99        | high           | low    | 3      | namesilo        |
 | bay.financial  | resell    | —         | —             | high           | low    | 3      | Porkbun LLC     |
-| diy.financial  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
-| des.financial  | available | $29.99    | —             | high           | low    | 3      | name.com        |
+| aus.financial  | premium   | $108.90   | $108.90       | high           | low    | 3      | dynadot         |
+| cbc.financial  | available | $17.48    | $66.98        | high           | low    | 3      | namecheap       |
 | dot.financial  | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
-| etc.financial  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
-| die.financial  | available | $29.99    | —             | high           | low    | 3      | name.com        |
+| diy.financial  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| csa.financial  | available | $15.73    | $46.78        | high           | low    | 3      | spaceship       |
 | jet.financial  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
-| fed.financial  | premium   | $242      | $242          | high           | low    | 3      | namesilo        |
-| din.financial  | available | $17.48    | $66.98        | high           | low    | 3      | namecheap       |
+| etc.financial  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| des.financial  | available | $29.99    | —             | high           | low    | 3      | name.com        |
 | file.financial | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
-| mil.financial  | premium   | $500      | $500          | high           | low    | 3      | name.com        |
-| fog.financial  | available | $23.99    | $58.99        | high           | low    | 3      | namesilo        |
+| fed.financial  | premium   | $242      | $242          | high           | low    | 3      | namesilo        |
+| die.financial  | available | $29.99    | —             | high           | low    | 3      | name.com        |
 | mega.financial | resell    | —         | —             | high           | medium | 4      | Dynadot Inc     |
-| org.financial  | premium   | $500      | —             | high           | medium | 3      | name.com        |
-| hem.financial  | available | $17.48    | $66.98        | high           | low    | 3      | namecheap       |
+| mil.financial  | premium   | $500      | $500          | high           | low    | 3      | name.com        |
+| din.financial  | available | $17.48    | $66.98        | medium         | low    | 3      | namecheap       |
 | safe.financial | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,622 live domains                        |
+| 1,000-row public sample | 23,081 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FINANCIAL One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FINANCIAL One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
