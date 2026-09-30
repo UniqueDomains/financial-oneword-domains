@@ -1,10 +1,10 @@
-# Available .FINANCIAL One-Word Domains (25,596)
+# Available .FINANCIAL One-Word Domains (27,754)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C596%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C754%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .financial one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,596 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,754 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,596 domains · **Median ask:** $25.39 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 27,754 domains · **Median ask:** $25.11 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 **Canonical page:** `https://unique.domains/domains/tld/financial`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| elite.financial      | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc. |
-| abc.financial        | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
-| honor.financial      | available | $23.99    | $58.99        | high           | low    | 5      | namesilo        |
-| invincible.financial | available | $23.99    | $58.99        | high           | low    | 10     | namesilo        |
-| before.financial     | available | $23.99    | $58.99        | high           | low    | 6      | namesilo        |
-| heroic.financial     | available | $23.99    | $58.99        | high           | low    | 6      | namesilo        |
-| select.financial     | resell    | —         | —             | high           | medium | 6      | Sav.com, LLC    |
-| stretch.financial    | available | $17.48    | $66.98        | high           | low    | 7      | namecheap       |
-| walk.financial       | available | $23.99    | $58.99        | high           | low    | 4      | namesilo        |
-| blowout.financial    | available | $45.20    | $45.20        | high           | low    | 7      | cloudflare      |
-| answer.financial     | available | $15.73    | $46.78        | high           | low    | 6      | spaceship       |
-| finals.financial     | available | $23.99    | $58.99        | high           | low    | 6      | namesilo        |
-| windy.financial      | available | $23.99    | $58.99        | high           | low    | 5      | namesilo        |
-| traction.financial   | available | $45.20    | $45.20        | high           | low    | 8      | cloudflare      |
-| employ.financial     | available | $17.48    | $66.98        | high           | low    | 6      | namecheap       |
-| whole.financial      | available | $23.99    | $58.99        | high           | low    | 5      | namesilo        |
-| stunning.financial   | available | $23.99    | $58.99        | high           | low    | 8      | namesilo        |
-| past.financial       | premium   | $242      | $242          | high           | low    | 4      | namesilo        |
-| aft.financial        | available | $17.48    | $66.98        | high           | low    | 3      | namecheap       |
-| ams.financial        | premium   | $102.67   | $102.67       | high           | low    | 3      | spaceship       |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| aft.financial  | available | $17.48    | $66.98        | high           | low    | 3      | namecheap       |
+| abc.financial  | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
+| ams.financial  | premium   | $102.67   | $102.67       | high           | low    | 3      | spaceship       |
+| blm.financial  | available | $22.50    | —             | high           | low    | 3      | unstoppable     |
+| bay.financial  | resell    | —         | —             | high           | low    | 3      | Porkbun LLC     |
+| are.financial  | premium   | $108.90   | $108.90       | high           | low    | 3      | dynadot         |
+| cbc.financial  | available | $17.48    | $66.98        | high           | low    | 3      | namecheap       |
+| dot.financial  | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
+| aus.financial  | premium   | $108.90   | $108.90       | high           | low    | 3      | dynadot         |
+| cfr.financial  | available | $17.48    | $66.98        | high           | low    | 3      | namecheap       |
+| jet.financial  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
+| diy.financial  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
+| csa.financial  | available | $15.73    | $46.78        | high           | low    | 3      | spaceship       |
+| file.financial | resell    | —         | —             | high           | medium | 4      | Porkbun LLC     |
+| fed.financial  | premium   | $242      | $242          | high           | low    | 3      | namesilo        |
+| cwa.financial  | available | $22.50    | —             | medium         | low    | 3      | unstoppable     |
+| mega.financial | resell    | —         | —             | high           | medium | 4      | Dynadot Inc     |
+| mil.financial  | premium   | $500      | $500          | high           | low    | 3      | name.com        |
+| des.financial  | available | $23.99    | $58.99        | high           | low    | 3      | namesilo        |
+| safe.financial | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,596 live domains                        |
+| 1,000-row public sample | 27,754 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FINANCIAL One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FINANCIAL One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
