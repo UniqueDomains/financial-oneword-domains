@@ -1,10 +1,10 @@
-# Available .FINANCIAL One-Word Domains (31,617)
+# Available .FINANCIAL One-Word Domains (33,816)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C617%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C816%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .financial one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,617 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **33,816 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,617 domains · **Median ask:** $24.68 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 33,816 domains · **Median ask:** $24.56 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/financial`
 **Best for:** founders, investors, studios
 
@@ -70,19 +70,19 @@ print(df.head())
 | aft.financial  | available | $17.48    | $66.98        | high           | low    | 3      | namecheap       |
 | bay.financial  | resell    | —         | —             | high           | low    | 3      | Porkbun LLC     |
 | are.financial  | premium   | $108.90   | $108.90       | high           | low    | 3      | dynadot         |
-| bbb.financial  | available | $22.50    | —             | high           | low    | 3      | unstoppable     |
+| blm.financial  | available | $22.50    | —             | high           | low    | 3      | unstoppable     |
 | dot.financial  | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
 | aus.financial  | premium   | $108.90   | $108.90       | high           | low    | 3      | dynadot         |
-| blm.financial  | available | $22.50    | —             | high           | low    | 3      | unstoppable     |
+| boi.financial  | available | $15.73    | $46.78        | high           | low    | 3      | spaceship       |
 | jet.financial  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
 | diy.financial  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo        |
 | cbc.financial  | available | $17.48    | $66.98        | high           | low    | 3      | namecheap       |
 | mega.financial | resell    | —         | —             | high           | medium | 4      | Dynadot Inc     |
 | mil.financial  | premium   | $500      | $500          | high           | low    | 3      | name.com        |
-| cic.financial  | available | $23.99    | $58.99        | high           | low    | 3      | namesilo        |
+| csa.financial  | available | $15.73    | $46.78        | high           | low    | 3      | spaceship       |
 | safe.financial | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC    |
 | run.financial  | premium   | $128.70   | $128.70       | high           | medium | 3      | namecheap       |
-| csa.financial  | available | $15.73    | $46.78        | high           | low    | 3      | spaceship       |
+| cwa.financial  | available | $22.50    | —             | medium         | low    | 3      | unstoppable     |
 | sign.financial | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,617 live domains                        |
+| 1,000-row public sample | 33,816 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 3 high-demand names under $2,500           |
+| Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FINANCIAL One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FINANCIAL One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
